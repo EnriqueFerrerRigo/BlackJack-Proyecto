@@ -24,10 +24,8 @@ public class Juego {
 
     public void iniciarJuego() {
         // Inicializar el juego: Repartir cartas iniciales a todos los jugadores y al crupier
-        // Esto incluiría la lógica para repartir dos cartas a cada jugador y al crupier, alternando entre ellos
-        // Además, una de las cartas del crupier podría ser mostrada, dependiendo de las reglas del Blackjack
+        // + 2 cartas a cada jugador y crupier
 
-        // Implementar el resto de la lógica del juego aquí
         repartirNuevaMano();
     }
 
